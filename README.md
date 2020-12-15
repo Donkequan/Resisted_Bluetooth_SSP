@@ -1,5 +1,6 @@
-# CSE305
+# Enhancing the Security of Numeric Comparison Secure Simple Pairing Protocol in Bluetooth Standard V5.0
 
-## Xi'an Jiaotong-Liverpool University Final Year Project code
+## Xi'an Jiaotong-Liverpool University Project 
 
-enhancing the sercurity of numeric comparision Secure Simple Pairing protocol V5.0
+- Bluetooth I is the Exponent Splitting method
+- Bluetooth II is the Multiplicative Mask method
