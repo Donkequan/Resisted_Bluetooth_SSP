@@ -2,7 +2,7 @@
 
 ## Xi'an Jiaotong-Liverpool University Project 
 
-https://ieeexplore.ieee.org/abstract/document/9342976/
+https://doi.org/10.1109/TrustCom50675.2020.00224
 
 - Bluetooth I is the Exponent Splitting method
 - Bluetooth II is the Multiplicative Mask method
